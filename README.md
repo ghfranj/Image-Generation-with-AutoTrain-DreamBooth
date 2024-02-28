@@ -1,5 +1,3 @@
-![image](https://github.com/ghfranj/Image-Generation-with-AutoTrain-DreamBooth/assets/98123238/50b54af9-6c80-4f63-ab66-913bcd940bb9)# Image-Generation-with-AutoTrain-DreamBooth
-
 This repo aims to show the use of diffusion models in AutoTrain provided by DreamBooth
 
 initializing trained model:
