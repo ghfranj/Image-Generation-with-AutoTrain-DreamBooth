@@ -32,9 +32,6 @@ for i, prompt in enumerate(prompts):
 
 ## Samples of results:
 
-![image](https://github.com/ghfranj/Image-Generation-with-AutoTrain-DreamBooth/assets/98123238/41f3dca8-b086-4fe2-8b66-d46cf29fd140)
-
-
 ![image](https://github.com/ghfranj/Image-Generation-with-AutoTrain-DreamBooth/assets/98123238/4853dbe5-a7e1-4690-ac3c-b4f573feae5c)
 
 
